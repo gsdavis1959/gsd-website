@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 
 st.markdown("# Gregory S Davis")
 st.markdown("## What I'm working on....")
@@ -18,8 +17,8 @@ st.markdown("""
 
 with st.container():
     image_col, text_col = st.columns((1,2))
-    with image_col:
-        st.image("Relaxing.jpg")
+    # with image_col:
+    #    st.image("Relaxing.jpg")
 
     with text_col:
         st.subheader("ChatGPT")
