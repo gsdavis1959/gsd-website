@@ -17,7 +17,7 @@ st.markdown("""
 
 with st.container():
     image_col, text_col = st.columns((1,2))
-        with image_col:
+    with image_col:
         st.image("Relaxing.jpg")
 
     with text_col:
