@@ -1,4 +1,8 @@
+import os
 import streamlit as st
+
+port = int(os.environ.get("PORT", 8501))
+st.set_option("server.port", port)
 
 st.markdown("# Gregory S Davis")
 st.markdown("## What I'm working on....")
