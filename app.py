@@ -20,9 +20,7 @@ Ask Open AI to analyze a graph or image [here](https://gsd-graph-analysis-d87538
 
 Chatbot written by Open AI's ChatGPT [here](https://covid-19-001.herokuapp.com/)
 
-If you need a bad joke, try this using Open AI, Langchain, and Dash [here](https://gsd-joke-abd69206d90b.herokuapp.com/)
-
-    
+   
   
     
 """)
