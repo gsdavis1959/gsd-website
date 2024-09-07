@@ -16,8 +16,6 @@ Check out the named entity extraction tool
 Try out Google's Gemini Large Language Model (LLM) 
     [here](https://gsd-gemini-2e8b5ea02d39.herokuapp.com/)
 
-Ask Open AI to analyze a graph or image [here](https://gsd-graph-analysis-d87538823918.herokuapp.com/)
-
 Chatbot written by Open AI's ChatGPT [here](https://covid-19-001.herokuapp.com/)
 
 If you need a bad joke, give this a try [here](https://gsd-joke-abd69206d90b.herokuapp.com/)  
