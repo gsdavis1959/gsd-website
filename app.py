@@ -18,7 +18,7 @@ Try out Google's Gemini Large Language Model (LLM)
 
 Chatbot written by Open AI's ChatGPT [here](https://covid-19-001.herokuapp.com/)
 
-If you need a bad joke, give this a try [here](https://gsd-joke-abd69206d90b.herokuapp.com/)  
+Use this tool to describe upsetting situations and feelings and get suggestions based on Cognitive Behavioral Therapy (CBT) [here](https://gsd-database-535d80a01016.herokuapp.com/)  
   
     
 """)
