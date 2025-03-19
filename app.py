@@ -18,6 +18,8 @@ Try out Google's Gemini Large Language Model (LLM)
 
 Chatbot written by Open AI's ChatGPT [here](https://covid-19-001.herokuapp.com/)
 
+Vibe coded flight simulator created with the help of Gemini's Code Assist in VS Code [here](https://gsd-flight-sim-c2069160ff95.herokuapp.com/)
+
 Use this tool to describe upsetting situations and feelings. Get suggestions from a chatbot based on Cognitive Behavioral Therapy (CBT) [here](https://gsd-database-535d80a01016.herokuapp.com/)  
   
     
