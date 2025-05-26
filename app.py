@@ -4,7 +4,7 @@ import streamlit as st
 with st.container():
     image_col, text_col = st.columns((1,2))
     with image_col:
-        st.image("Relaxing.jpg", width=200, height=200)
+        st.image("Relaxing.jpg", width=200)
 st.markdown("# Gregory S Davis")
 st.markdown("## What I'm working on....")
 st.markdown("""
