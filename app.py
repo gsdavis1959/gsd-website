@@ -4,7 +4,7 @@ import streamlit as st
 with st.container():
     image_col, text_col = st.columns((1,2))
     with image_col:
-        st.image("Relaxing.jpg")
+        st.image("Relaxing.jpg", width=200, height=200)
 st.markdown("# Gregory S Davis")
 st.markdown("## What I'm working on....")
 st.markdown("""
@@ -15,6 +15,9 @@ Check out the named entity extraction tool
     
 Try out Google's Gemini Large Language Model (LLM) 
     [here](https://gsd-gemini-2e8b5ea02d39.herokuapp.com/)
+
+Try this AI enabled personality assessment 
+    [here](https://gsd-survey-efa034351121.herokuapp.com/)
 
 Chatbot written by Open AI's ChatGPT [here](https://covid-19-001.herokuapp.com/)
 
