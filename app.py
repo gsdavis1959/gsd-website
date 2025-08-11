@@ -11,10 +11,7 @@ st.markdown("""
 Here are a few ideas I've been working on: 
       
 Check out the named entity extraction tool 
-    [here](http://website-97957.appspot.com/)
-    
-Try out Google's Gemini Large Language Model (LLM) 
-    [here](https://gsd-gemini-2e8b5ea02d39.herokuapp.com/)
+    [here](http://website-97957.appspot.com/)    
 
 Try this AI enabled personality assessment 
     [here](https://gsd-survey-efa034351121.herokuapp.com/)
@@ -27,6 +24,7 @@ Use this tool to describe upsetting situations and feelings. Get suggestions fro
   
     
 """)
+
 
 
 
